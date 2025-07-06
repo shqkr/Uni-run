@@ -1,5 +1,5 @@
 # Uni-run (유니런)
-&lt;레트로의 유니티 게임 프로그래밍 에센스 6> 2번째 실습 프로젝트
+&lt;레트로의 유니티 게임 프로그래밍 에센스 6> 2nd Hands-on Project
 
 ## 🎮 Game Overview
 A simple 2D runner game in which the player has to step on as many platforms as possible to achieve a high score.
