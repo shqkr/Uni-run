@@ -2,7 +2,12 @@
 &lt;레트로의 유니티 게임 프로그래밍 에센스 6> 2번째 실습 프로젝트
 
 ## 🎮 Game Overview
-A simple 2D runner game in which the player has to step as many platforms possible to achieve high score.
+A simple 2D runner game in which the player has to step on as many platforms as possible to achieve a high score.
+
+## 📸 Screenshots
+
+![screenshot0](https://github.com/user-attachments/assets/2801e706-8e73-44b4-ae6c-014137066151)
+![screenshot1](https://github.com/user-attachments/assets/f3dc7593-cafa-4ffc-87d5-586bc4f75cdf)
 
 ## 🔧 Tech
 - Unity 6000.0.36f1
